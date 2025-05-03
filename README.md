@@ -1,11 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Valentino
+
+🎓 I'm a student at **UTEC**.
+
+💻 I recently started my coding journey, and I'm excited to keep learning and growing in tech!
+
+🌱 Currently learning:
+- Programming languages: Python, Html and visual basics
+- Computer Science
+  
+🔭 I'm looikng to learn every day and pushing myself to build awesome projects!
 
 <!--
 **Valentinoig4/Valentinoig4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
