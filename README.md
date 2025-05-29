@@ -5,10 +5,8 @@
 💻 I recently started my coding journey, and I'm excited to keep learning and growing in tech!
 
 🌱 Currently learning:
-- Programming languages: Python, Html and visual basics
+- Python, Html/CSS and C++ 
 - Computer Science
-  
-🔭 I'm looikng to learn every day and pushing myself to build awesome projects!
 
 <!--
 **Valentinoig4/Valentinoig4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
